@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/kris-holt",
+      "title": "Qualcomm is making 5nm ARM chipsets for Windows laptops | Engadget",
+      "description": "The company also announced a new line of chips for handheld gaming devices..",
+      "url": "https://www.engadget.com/qualcomm-8cx-gen-3-7c-gen-3-arm-chipsets-windows-gaming-handheld-230008247.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-11/14fe92f0-4d60-11ec-bf5b-e881c7dc0c82",
+      "publishedAt": "2021-12-01T23:07:22.4179768Z",
+      "content": "Qualcomm\r\n is expanding its lineup of ARM-based chips for Windows and Chromebook with Snapdragon 8cx Gen 3 and 7c+ Gen 3 platforms. In addition, the company aims to power handheld gaming devices usin… [+3385 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Haje Jan Kamps",
+      "title": "Razer launches handheld dev kit with brand new Snapdragon G3x chip",
+      "description": "Snapdragon’s G3x is Qualcomm’s fantastically exciting bid to embrace the gaming market — a brand new reach for the manufacturer, which introduces powerful GPUs, 5G-enabled connectivity, the ability to power external screens, immersive audio capabilities, hapt…",
+      "url": "https://techcrunch.com/2021/12/01/snapdragon-g3x-gaming/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/Snapdragon-G3x-gen-1-Handheld-Gaming_Lifestyle-2.jpg?w=600",
+      "publishedAt": "2021-12-01T23:00:16Z",
+      "content": "Snapdragon’s G3x is Qualcomm’s fantastically exciting bid to embrace the gaming market a brand new reach for the manufacturer, which introduces powerful GPUs, 5G-enabled connectivity, the ability to … [+5474 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Qualcomm’s new G3x platform could usher in a new wave of Nintendo Switch-alikes",
+      "description": "Qualcomm is upping its investment in gaming with the new Snapdragon G3x Gen 1 Gaming Platform, an Android-based platform that device manufacturers can use to make Nintendo Switch or Steam Deck-like convertible handheld gaming devices.",
+      "url": "https://www.theverge.com/2021/12/1/22789752/qualcomm-g3x-chip-platform-android-razer-developer-kit",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2DTRjgte0qX8XHcesWyIaZpJNJ4=/0x403:5625x3348/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23025069/Snapdragon_G3x_gen_1_Handheld_Gaming_Lifestyle_2.jpg",
+      "publishedAt": "2021-12-01T23:00:00Z",
+      "content": "Its an Android-based platform\r\nThe Snapdragon G3x Handheld Gaming Developer Kit. \r\nImage: Qualcomm\r\nQualcomm is upping its investment in gaming with a new Snapdragon G3x Gen 1 Gaming Platform, which … [+2245 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Eric Song",
+      "title": "Cyber Week Dell Deal: Get an Alienware Aurora R12 RTX 3080,  3080 Ti, or 3090 Gaming PC for Cheaper Than Any Deal on Black Friday or Cyber Monday - IGN",
+      "description": "The best deal so far for a top-end RTX 30 series gaming PC",
+      "url": "https://www.ign.com/articles/best-cyber-week-dell-deal-alienware-rtx-3060-3070-3080-ti-3090-gaming-pc",
+      "urlToImage": "https://assets-prd.ignimgs.com/2021/12/01/cmnewdell1-1638384492114.jpg?width=1280",
+      "publishedAt": "2021-12-01T18:48:34Z",
+      "content": "For Cyber Week, Dell Small Business is offering a crazy good deal on an Alienware Aurora RTX 30 Series Gaming PC. This deal isn't really advertised anywhere and we found it purely by browing around D… [+1478 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Michelle Rae Uy",
+      "title": "Best Xbox Series X/S Gaming Headsets 2021 - IGN",
+      "description": "We've picked out the best Xbox gaming headsets to meet multiple budgets and needs.",
+      "url": "https://www.ign.com/articles/best-xbox-headset",
+      "urlToImage": "https://assets-prd.ignimgs.com/2021/11/12/xbox-headset-1636756822184.jpg?width=1280",
+      "publishedAt": "2021-11-12T22:49:10Z",
+      "content": "Xboxs newest consoles, both the Series X and the Series S, not only deliver stunning visuals in high resolution (4K in the case of the Series X), they also round out your gaming experience with suppo… [+6478 chars]"
+    }
+  ]
+}
