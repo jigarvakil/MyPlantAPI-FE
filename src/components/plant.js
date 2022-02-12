@@ -16,8 +16,8 @@ export class News extends Component {
       totalResults: 0,
     };
     document.title = !this.props.category
-      ? "NewsMonkey - The News App by Jigar Vakil "
-      : `NewsMonkey - ${this.capitalizeFirstLetter(this.props.category)}`;
+      ? "MyPlantAPI FE - The PlantO'Pedia by Pooja Tailor "
+      : `MyPlantAPI FE - The PlantO'Pedia by Pooja Tailor`;
   }
 
   updateNews = async () => {
